@@ -5,11 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.CheckBox;
-import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
-import android.widget.Toast;
+import android.graphics.Matrix;
 
 public class MainActivity extends AppCompatActivity {
     CheckBox checkboxTwice, checkboxBTS;
@@ -22,17 +21,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        checkboxTwice = (CheckBox) findViewById(R.id.checkboxTwice);
-        checkboxBTS = (CheckBox) findViewById(R.id.checkboxBTS);
+        checkboxTwice = findViewById(R.id.checkboxTwice);
+        checkboxBTS = findViewById(R.id.checkboxBTS);
 
-        imageView = (ImageView) findViewById(R.id.imageView);
+        imageView = findViewById(R.id.imageView);
 
-        group_name = (RadioGroup) findViewById(R.id.group_name);
-        group_size = (RadioGroup) findViewById(R.id.group_size);
+        group_name = findViewById(R.id.group_name);
+        group_size = findViewById(R.id.group_size);
 
-        jungkuk = (RadioButton) findViewById(R.id.radiobuttonJungkuk);
-        jimin = (RadioButton) findViewById(R.id.radiobuttonJimin);
-        taehyoung = (RadioButton) findViewById(R.id.radiobuttonTaehyoung);
+        jungkuk = findViewById(R.id.radiobuttonJungkuk);
+        jimin = findViewById(R.id.radiobuttonJimin);
+        taehyoung = findViewById(R.id.radiobuttonTaehyoung);
 
         checkboxTwice.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -53,41 +52,47 @@ public class MainActivity extends AppCompatActivity {
                 taehyoung.setText("태형");
             }
         });
-
         group_name.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup radioGroup, int i) {
-                if(i == R.id.radiobuttonJungkuk){
-                    if (jungkuk.getText().toString().equals("정국")) imageView.setImageResource(R.drawable.jungkuk);
+                if (i == R.id.radiobuttonJungkuk) {
+                    if (jungkuk.getText().toString().equals("정국"))
+                        imageView.setImageResource(R.drawable.jungkuk);
                     else imageView.setImageResource(R.drawable.momo);
-                }
-                else if(i == R.id.radiobuttonJimin){
-                    if (jimin.getText().toString().equals("지민")) imageView.setImageResource(R.drawable.jimin);
+                } else if (i == R.id.radiobuttonJimin) {
+                    if (jimin.getText().toString().equals("지민"))
+                        imageView.setImageResource(R.drawable.jimin);
                     else imageView.setImageResource(R.drawable.sana);
-                }
-                else{
-                    if (taehyoung.getText().toString().equals("태형")) imageView.setImageResource(R.drawable.taehyoung);
+                } else {
+                    if (taehyoung.getText().toString().equals("태형"))
+                        imageView.setImageResource(R.drawable.taehyoung);
                     else imageView.setImageResource(R.drawable.tyuwi);
+                }
+            }
+
+
+        });
+
+        group_size.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(RadioGroup radioGroup, int i) {
+                if (i == R.id.radiobuttonCenter) {
+                    imageView.setScaleType(ImageView.ScaleType.CENTER);
+                }
+                if (i == R.id.radiobuttonMatrix) {
+                    imageView.setScaleType(ImageView.ScaleType.MATRIX);
+                    Matrix matrix = imageView.getImageMatrix();
+                    float scale = 0.5f;
+                    matrix.setScale(scale, scale);
+                    imageView.setImageMatrix(matrix);
+                }
+                if (i == R.id.radiobuttonFitXY) {
+                    imageView.setScaleType(ImageView.ScaleType.FIT_XY);
+                }
+                if (i == R.id.radiobuttonFitCenter) {
+                    imageView.setScaleType(ImageView.ScaleType.FIT_CENTER);
                 }
             }
         });
     }
-
-//    CompoundButton.OnCheckedChangeListener mCheckListener = new CompoundButton.OnCheckedChangeListener() {
-//        @Override
-//        public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
-//            if ((compoundButton.getId() == R.id.checkboxTwice) && checkboxBTS.isChecked()) {
-//                checkboxBTS.setChecked(false);
-//                jungkuk.setText("모모");
-//                jimin.setText("사나");
-//                taehyoung.setText("쯔위");
-//            }
-//            else if ((compoundButton.getId() == R.id.checkboxBTS) && checkboxTwice.isChecked()){
-//                checkboxTwice.setChecked(false);
-//                jungkuk.setText("정국");
-//                jimin.setText("지민");
-//                taehyoung.setText("태형");
-//            }
-//        }
-//    };
 }
