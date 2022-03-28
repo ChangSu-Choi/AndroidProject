@@ -13,5 +13,5 @@
   
    
 > # Practiced LinearLayout and Widget.  
-> PDF : https://github.com/ChangSu-Choi/AndroidProject/blob/main/pdf/Practiced%20LinearLayout%20and%20Widget.pdf
+> PDF : https://github.com/ChangSu-Choi/AndroidProject/blob/main/pdf/Practiced%20LinearLayout%20and%20Widget.pdf   
 > code : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week4
