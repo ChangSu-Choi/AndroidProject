@@ -14,4 +14,11 @@
    
 > # Practiced LinearLayout and Widget.  
 > PDF : https://github.com/ChangSu-Choi/AndroidProject/blob/main/pdf/Practiced%20LinearLayout%20and%20Widget.pdf   
-> code : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week4
+> code : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week4.  
+
+
+> # Advanced widgets
+> CalendarView, Chronometer, SeekBar, RatingBar, ViewFlipper, Bottom Navigation etc..    
+> PDF : https://github.com/ChangSu-Choi/AndroidProject/blob/main/pdf/Advanced%20widgets.pptx     
+> code1 : https://github.com/ChangSu-Choi/AndroidProject/tree/main/BottomNavigation.  
+> code2 : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week6.  
