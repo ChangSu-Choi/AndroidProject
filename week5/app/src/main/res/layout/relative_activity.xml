@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/baseTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="전화번호" />
+
+    <EditText
+        android:id="@+id/baseEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/baseTextView"
+        android:layout_marginLeft="10dp"
+        android:hint="000-0000-0000"
+        android:layout_toRightOf="@+id/baseTextView" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/baslineBtn2"
+        android:layout_toLeftOf="@+id/baslineBtn2"
+        android:text="입력"
+        android:layout_marginRight="10dp"
+        android:id="@+id/baselineBtn1"
+        android:textColor="@color/black"
+        android:backgroundTint="#FFEB3B"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/baseEditText"
+        android:layout_below="@+id/baseEditText"
+        android:text="취소"
+        android:textColor="@color/black"
+        android:backgroundTint="#FFEB3B"
+        android:id="@+id/baslineBtn2"/>
+
+
+
+</RelativeLayout>
