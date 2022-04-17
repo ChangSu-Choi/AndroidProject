@@ -14,11 +14,17 @@
    
 > # Practiced LinearLayout and Widget.  
 > PDF : https://github.com/ChangSu-Choi/AndroidProject/blob/main/pdf/Practiced%20LinearLayout%20and%20Widget.pdf   
-> code : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week4.  
+> PDF code : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week4.  
 
 
 > # Advanced widgets
 > CalendarView, Chronometer, SeekBar, RatingBar, ViewFlipper, Bottom Navigation etc..    
 > PDF : https://github.com/ChangSu-Choi/AndroidProject/blob/main/pdf/Advanced%20widgets.pptx     
-> code1 : https://github.com/ChangSu-Choi/AndroidProject/tree/main/BottomNavigation.  
-> code2 : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week6.  
+> PDF code : https://github.com/ChangSu-Choi/AndroidProject/tree/main/BottomNavigation.  
+> practicing : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week6.  
+
+> # Navigation Drawer.  
+> Navigation Drawer, OptionMenu, AlertDialog.  
+> PDF : https://github.com/ChangSu-Choi/AndroidProject/blob/main/pdf/Navigation%20Drawer%2C%20OptionMenu%2C%20AlertDialog.pdf.  
+> PDF code : https://github.com/ChangSu-Choi/AndroidProject/tree/main/BottomNavigation.  
+> practicing : https://github.com/ChangSu-Choi/AndroidProject/tree/main/week7   
