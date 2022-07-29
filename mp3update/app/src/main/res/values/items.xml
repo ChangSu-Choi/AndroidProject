@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items" translatable="false">
+        <item>빙글뱅글</item>
+        <item>뚜두뚜두</item>
+        <item>Yes or Yes</item>
+    </string-array>
+
+</resources>

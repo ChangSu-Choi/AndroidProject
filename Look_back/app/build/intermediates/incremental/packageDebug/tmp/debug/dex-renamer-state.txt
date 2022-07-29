@@ -1,0 +1,4 @@
+#Thu Jun 16 17:30:15 KST 2022
+base.0=/Users/changsu/Documents/GitHub/AndroidProject/Look_back/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

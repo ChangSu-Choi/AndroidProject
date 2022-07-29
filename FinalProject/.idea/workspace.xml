@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5754665-789c-4b27-9802-166890470714" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/app/src/main/java/com/example/activityresult/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/app/src/main/res/drawable-v24/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/app/src/main/res/drawable-v24/dark.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/app/src/main/res/drawable-v24/red.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityResult/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContentProvider/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContentProvider/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContentProvider/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContentProvider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContentProvider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DB/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DB/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dakkung-Android-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dakkung-Android-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/app/src/main/res/drawable-v24/blackbtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/app/src/main/res/drawable-v24/bluebtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/app/src/main/res/drawable-v24/redbtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Draw/app/src/main/res/menu/optionmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMapActivity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMapActivity/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMapActivity/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMapActivity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMapActivity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMapActivity/app/src/main/res/drawable/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GooglePlayServices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GooglePlayServices/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GooglePlayServices/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GooglePlayServices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GooglePlayServices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/app/src/main/res/drawable/japan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/app/src/main/res/drawable/japanese.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListView/app/src/main/res/layout/listview_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MP3Player/app/src/main/res/raw/example.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3Player2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/drawable-v24/bewhy1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/drawable-v24/bewhy2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/drawable-v24/bewhy3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/drawable-v24/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/drawable-v24/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/drawable-v24/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/drawable-v24/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/raw/David.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/raw/ThankGod.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3update/app/src/main/res/raw/TheTimeGoesOn.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/app/src/main/res/drawable-v24/battery_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/app/src/main/res/drawable-v24/battery_100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/app/src/main/res/drawable-v24/battery_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/app/src/main/res/drawable-v24/battery_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/app/src/main/res/drawable-v24/battery_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project142/app/src/main/res/drawable-v24/battery_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/androidTest/java/com/example/recyclerview/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/java/com/example/recyclerview/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/java/com/example/recyclerview/MyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/java/com/example/recyclerview/MyViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/java/com/example/recyclerview/PaintTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/java/com/example/recyclerview/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/drawable/food1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/drawable/food2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/drawable/food3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/layout/viewitem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/app/src/test/java/com/example/recyclerview/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recyclerVIew/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../progressRawFIle/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../progressRawFIle/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../progressRawFIle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../progressRawFIle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6/app/src/main/AndroidManifest.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/changsu/.android/avd/Pixel_2_API_32.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29rrfV3VvG86w5ABLPA8Ws0Cfc7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/example/finalproject" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/finalproject" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="FinalProject.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5754665-789c-4b27-9802-166890470714" name="Default Changelist" comment="" />
+      <created>1653882148747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653882148747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

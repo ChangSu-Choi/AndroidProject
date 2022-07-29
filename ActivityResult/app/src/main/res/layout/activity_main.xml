@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/redImg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/red"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/blueImg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/blue"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/blackImg"
+        app:layout_constraintStart_toEndOf="@+id/redImg"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/blackImg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvRed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/redImg"
+        app:layout_constraintStart_toStartOf="@+id/redImg"
+        app:layout_constraintTop_toBottomOf="@+id/redImg"
+        app:layout_constraintVertical_bias="0.501" />
+
+    <TextView
+        android:id="@+id/tvBlue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/blueImg"
+        app:layout_constraintStart_toStartOf="@+id/blueImg"
+        app:layout_constraintTop_toBottomOf="@+id/blueImg" />
+
+    <TextView
+        android:id="@+id/tvBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/blackImg"
+        app:layout_constraintTop_toBottomOf="@+id/blackImg" />
+
+    <Button
+        android:id="@+id/btnFin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="결과보기"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvBlue" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
